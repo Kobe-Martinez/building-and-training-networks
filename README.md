@@ -4,6 +4,7 @@ This project focuses on exploring key concepts in neural network design and opti
 
 
 ## Table of Contents
+
 - [Features](#features)
 - [Usage](#usage)
 - [Code Structure](#code-structure)
